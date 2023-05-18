@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho{
+    background-color: #a0c1f6;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    background-image: linear-gradient(#14428d,#a0c1f6);
+    color: white;
+}
+
+.nome-da-escola {
+    color: black;
+    margin: 20px 0;
+    font-size: 50px;
+
+}
+
+.cabeçalho-imagem {
+    width: 0%;
+}
+
+.cabeçalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 25px;    
+}
+
+.escola-texto-um {
+    font-size: 20px;
+    margin: 20 200px;
+}
+
+.entrada-do-colegio {
+    width: 20%;
+}
+
+.aluno-kawan{
+    width: 10%;
+    margin: 20px 0px;
+}
+
+.aluno-maycon{
+    width: 10%;
+}
+
+.aluno-lucas{
+    width: 10%;
+}
+
+.nome-alunos{
+    font-size: 30px;
+}
